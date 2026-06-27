@@ -1,0 +1,7 @@
+C:\Users\Andrépvp\Desktop\proj\sla-26-6\Nova pasta\Atividade-Strategy\bin\Debug\Atividade-Strategy.exe.config
+C:\Users\Andrépvp\Desktop\proj\sla-26-6\Nova pasta\Atividade-Strategy\bin\Debug\Atividade-Strategy.exe
+C:\Users\Andrépvp\Desktop\proj\sla-26-6\Nova pasta\Atividade-Strategy\bin\Debug\Atividade-Strategy.pdb
+C:\Users\Andrépvp\Desktop\proj\sla-26-6\Nova pasta\Atividade-Strategy\obj\Debug\Atividade-Strategy.csproj.AssemblyReference.cache
+C:\Users\Andrépvp\Desktop\proj\sla-26-6\Nova pasta\Atividade-Strategy\obj\Debug\Atividade-Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Andrépvp\Desktop\proj\sla-26-6\Nova pasta\Atividade-Strategy\obj\Debug\Atividade-Strategy.exe
+C:\Users\Andrépvp\Desktop\proj\sla-26-6\Nova pasta\Atividade-Strategy\obj\Debug\Atividade-Strategy.pdb

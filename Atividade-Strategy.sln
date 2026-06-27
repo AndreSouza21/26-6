@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade-Strategy", "Atividade-Strategy\Atividade-Strategy.csproj", "{7A1D9C3E-5B2F-4E6A-9C8D-1F3A6B9E2D4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A1D9C3E-5B2F-4E6A-9C8D-1F3A6B9E2D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1D9C3E-5B2F-4E6A-9C8D-1F3A6B9E2D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1D9C3E-5B2F-4E6A-9C8D-1F3A6B9E2D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1D9C3E-5B2F-4E6A-9C8D-1F3A6B9E2D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CABAEE5B-DC34-4EC7-A714-8B77E15B08E2}
+	EndGlobalSection
+EndGlobal

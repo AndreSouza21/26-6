@@ -1,4 +1,4 @@
-André Ferreira Santos 176013
+André Ferreira Santos 176013 \n
 André Souza de Almeida 176024
 
 ## Como executar
